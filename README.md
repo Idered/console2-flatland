@@ -10,7 +10,7 @@ Installation
 - Open that file
 - Replace `<colors>...</colors>` section with this code:
 
-```
+```xml
 <colors>
   <color id="0" r="38" g="41" b="44"/>
   <color id="1" r="114" g="170" b="202"/>
