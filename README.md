@@ -1,7 +1,7 @@
 console2-flatland
 =================
 
-Flatland colors for Console2
+[Flatland](https://github.com/thinkpixellab/flatland) colors for Console2
 
 Installation
 ------------
